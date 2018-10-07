@@ -1,0 +1,7 @@
+   <StackLayout Padding="40" Spacing="10">
+                <local:ImageEntry TextColor="White" 
+                        PlaceholderColor="{StaticResource primary}" 
+                        Image="user" 
+                        Placeholder="Emil" 
+                        HorizontalOptions="FillAndExpand"/>
+             </StackLayout>
