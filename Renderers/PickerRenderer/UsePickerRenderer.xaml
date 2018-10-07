@@ -1,0 +1,12 @@
+<StackLayout VerticalOptions="CenterAndExpand" Padding="20"
+                 HorizontalOptions="FillAndExpand">
+             <controls:CustomPicker HorizontalOptions="FillAndExpand"
+                     HeightRequest="40" 
+                     Image="ic_arrow_drop_down"
+                     Title="Pick an Item">
+                      <controls:CustomPicker.Items>
+                        <x:String>1</x:String> 
+                        <x:String>2</x:String>
+                    </controls:CustomPicker.Items>
+            </controls:CustomPicker> 
+    </StackLayout>
